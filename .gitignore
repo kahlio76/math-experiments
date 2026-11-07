@@ -1,0 +1,5 @@
+*.cnf
+*.model
+*.out
+__pycache__/
+.DS_Store
